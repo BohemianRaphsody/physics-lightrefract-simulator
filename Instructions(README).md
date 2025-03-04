@@ -3,7 +3,7 @@
 This Project is a lite version of the original(<150 lines). In its raw form is 1700 lines long and runs upto 12% CPU capacity. This Version Minimizes total CPU usage by 10000% and only runs at the max of 0.001% CPU. 
 
 
-Light Refraction Simulator School Project created by **BohemianRaphsody** aka G. The program is designed to simulate light refraction using a dual language interface (Malay-English).
+Light Refraction Simulator School Project created by **BohemianRaphsody** Also Known As G. The program is designed to simulate light refraction using a dual language interface (Malay-English).
 
 ## Features
 
